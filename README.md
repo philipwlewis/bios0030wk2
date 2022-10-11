@@ -26,18 +26,28 @@
 
  - if command
  - if ... else command
- -  if ... elif ... else commands 
+ - if ... elif ... else commands 
 
  - program flow in an if command
 
-the while loop
-- break from a while loop
-- infinite while loops
-- when to use while loop vs for loops
-
+ - using a while loop
+ - break from a while loop
+ - infinite while loops
+ 
+ - when to use while loop vs for loops
 
 
 ### Topic 3: editing and debugging in JupyterLab
 
+- tabbing code sections
+- copying code cells
+- super cursor
+- autocompletion
+
+
+- using print commands
+- adding comments 
+- using JupyterLab debugger
+- adding logging commands (optional output to monitor code activity)
 
 ### Topic 4: introduction to functions
