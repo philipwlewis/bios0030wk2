@@ -50,3 +50,16 @@
 - adding logging commands (optional output to monitor code activity)
 
 ### Topic 4: introduction to functions
+
+ - what is a function
+ - defining a simple function in Python def / args / return
+ - calling a function in Python
+ - print vs return to see output
+
+ - multiple arguments
+ - default values 
+ - returning multiple values
+    
+ - why use functions
+ 
+ 
