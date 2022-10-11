@@ -44,7 +44,6 @@
 - super cursor
 - autocompletion
 
-
 - using print commands
 - adding comments 
 - using JupyterLab debugger
